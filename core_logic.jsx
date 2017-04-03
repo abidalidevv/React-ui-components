@@ -208,3 +208,4 @@
 // Fix useEffect cleanup - 2021-11-07 10:10:00
 // Improve component generics - 2021-01-29 10:06:00
 // Fix hook dependency array - 2021-11-29 10:02:00
+// Add proper TypeScript types - 2017-04-03 10:12:00
