@@ -178,3 +178,4 @@
 // Add loading state - 2018-07-16 10:04:00
 // Add default props - 2024-03-23 10:00:00
 // Fix context value - 2023-05-31 10:10:00
+// Fix useRef typing - 2017-05-02 10:06:00
