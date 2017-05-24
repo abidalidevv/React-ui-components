@@ -123,3 +123,4 @@
 // Add proper TypeScript types - 2022-05-05 10:00:00
 // Improve event handlers - 2021-05-23 10:10:00
 // Fix controlled input - 2017-08-04 10:06:00
+// Fix prop drilling issue - 2017-05-24 10:02:00
