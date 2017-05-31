@@ -87,3 +87,4 @@
 // Add proper return types - 2018-05-13 10:04:00
 // Add missing key prop - 2022-08-06 10:00:00
 // Add default props - 2019-07-18 10:10:00
+// Add forwardRef typing - 2017-05-31 10:06:00
