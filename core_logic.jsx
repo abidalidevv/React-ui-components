@@ -34,3 +34,4 @@
 // Improve component generics - 2023-03-20 10:06:00
 // Add proper return types - 2023-09-05 10:02:00
 // Add missing key prop - 2024-04-21 10:12:00
+// Fix useEffect cleanup - 2017-07-15 10:08:00
