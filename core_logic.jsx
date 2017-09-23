@@ -97,3 +97,4 @@
 // Fix useEffect cleanup - 2020-10-28 10:06:00
 // Improve context typing - 2017-09-05 10:02:00
 // Add proper return types - 2021-09-01 10:12:00
+// Fix prop validation - 2017-09-23 10:08:00
