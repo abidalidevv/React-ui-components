@@ -218,3 +218,4 @@
 // Fix prop validation - 2020-08-30 10:12:00
 // Add default props - 2018-08-22 10:08:00
 // Improve accessibility markup - 2023-10-23 10:04:00
+// Add loading state - 2018-04-16 10:00:00
