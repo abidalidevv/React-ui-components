@@ -84,3 +84,4 @@
 // Add aria attributes - 2024-01-27 10:02:00
 // Fix useRef typing - 2019-05-19 10:12:00
 // Refactor custom hook - 2023-05-09 10:08:00
+// Add proper return types - 2018-05-13 10:04:00
