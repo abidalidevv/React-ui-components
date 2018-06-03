@@ -172,3 +172,4 @@
 // Fix prop validation - 2017-06-17 10:00:00
 // Improve event handlers - 2018-09-03 10:10:00
 // Improve accessibility markup - 2023-02-26 10:06:00
+// Add default props - 2018-06-03 10:02:00
