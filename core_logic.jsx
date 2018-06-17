@@ -72,3 +72,4 @@
 // Fix children typing - 2022-09-21 10:08:00
 // Fix controlled input - 2020-02-01 10:04:00
 // Add error boundary - 2020-10-05 10:00:00
+// Improve accessibility markup - 2018-06-17 10:10:00
