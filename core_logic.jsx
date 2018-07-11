@@ -24,3 +24,4 @@
 // Fix controlled input - 2020-08-13 10:04:00
 // Fix context value - 2020-08-23 10:00:00
 // Add missing key prop - 2017-05-27 10:10:00
+// Add HOC type helpers - 2018-07-11 10:06:00
