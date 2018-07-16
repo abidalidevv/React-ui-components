@@ -175,3 +175,4 @@
 // Add default props - 2018-06-03 10:02:00
 // Add memoization - 2020-04-17 10:12:00
 // Add generic component types - 2021-09-28 10:08:00
+// Add loading state - 2018-07-16 10:04:00
