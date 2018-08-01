@@ -269,3 +269,4 @@
 // Fix render prop types - 2023-05-07 10:04:00
 // Add proper TypeScript types - 2020-08-14 10:00:00
 // Fix prop validation - 2024-11-13 10:10:00
+// Add proper TypeScript types - 2018-08-01 10:06:00
