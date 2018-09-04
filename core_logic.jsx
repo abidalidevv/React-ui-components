@@ -4,3 +4,4 @@
 // Fix render prop types - 2021-04-02 10:00:00
 // Fix async handler types - 2019-07-30 10:10:00
 // Fix discriminated prop types - 2019-08-18 10:06:00
+// Improve context typing - 2018-09-04 10:02:00
