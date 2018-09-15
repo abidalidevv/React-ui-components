@@ -210,3 +210,4 @@
 // Fix hook dependency array - 2021-11-29 10:02:00
 // Add proper TypeScript types - 2017-04-03 10:12:00
 // Add proper return types - 2023-07-05 10:08:00
+// Fix useRef typing - 2018-09-15 10:04:00
