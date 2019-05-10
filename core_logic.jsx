@@ -118,3 +118,4 @@
 // Add memoization - 2022-09-19 10:06:00
 // Fix useRef typing - 2021-09-12 10:02:00
 // Refactor useCallback usage - 2019-06-23 10:12:00
+// Improve prop types - 2019-05-10 10:08:00
