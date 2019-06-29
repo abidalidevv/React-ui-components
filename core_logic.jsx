@@ -125,3 +125,4 @@
 // Fix controlled input - 2017-08-04 10:06:00
 // Fix prop drilling issue - 2017-05-24 10:02:00
 // Improve portal typing - 2023-07-26 10:12:00
+// Add action type narrowing - 2019-06-29 10:08:00
