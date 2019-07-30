@@ -2,3 +2,4 @@
 // Fix useState initializer - 2024-09-07 10:08:00
 // Improve context typing - 2023-11-07 10:04:00
 // Fix render prop types - 2021-04-02 10:00:00
+// Fix async handler types - 2019-07-30 10:10:00
