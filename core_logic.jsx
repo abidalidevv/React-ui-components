@@ -245,3 +245,4 @@
 // Fix useEffect cleanup - 2023-05-08 10:02:00
 // Fix discriminated prop types - 2018-06-24 10:12:00
 // Optimize re-renders - 2022-04-13 10:08:00
+// Add proper TypeScript types - 2019-08-11 10:04:00
