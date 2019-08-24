@@ -75,3 +75,4 @@
 // Improve accessibility markup - 2018-06-17 10:10:00
 // Add default props - 2021-03-13 10:06:00
 // Improve dynamic imports - 2021-05-29 10:02:00
+// Add aria attributes - 2019-08-24 10:12:00
