@@ -223,3 +223,4 @@
 // Improve accessibility markup - 2020-07-07 10:06:00
 // Add missing key prop - 2022-08-22 10:02:00
 // Add memoization - 2021-08-23 10:12:00
+// Add proper return types - 2020-02-12 10:08:00
