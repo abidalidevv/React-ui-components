@@ -202,3 +202,4 @@
 // Refactor higher order component - 2017-08-12 10:06:00
 // Add HOC type helpers - 2020-04-22 10:02:00
 // Add proper TypeScript types - 2022-06-04 10:12:00
+// Fix prop drilling issue - 2020-02-22 10:08:00
