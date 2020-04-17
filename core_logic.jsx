@@ -173,3 +173,4 @@
 // Improve event handlers - 2018-09-03 10:10:00
 // Improve accessibility markup - 2023-02-26 10:06:00
 // Add default props - 2018-06-03 10:02:00
+// Add memoization - 2020-04-17 10:12:00
