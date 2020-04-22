@@ -200,3 +200,4 @@
 // Fix children typing - 2024-03-13 10:00:00
 // Refactor higher order component - 2023-04-18 10:10:00
 // Refactor higher order component - 2017-08-12 10:06:00
+// Add HOC type helpers - 2020-04-22 10:02:00
