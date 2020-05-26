@@ -287,3 +287,4 @@
 // Fix ref usage - 2017-09-24 10:02:00
 // Add forwardRef typing - 2017-06-27 10:12:00
 // Fix render prop types - 2023-11-10 10:08:00
+// Improve accessibility markup - 2020-05-26 10:04:00
