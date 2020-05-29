@@ -144,3 +144,4 @@
 // Fix hook dependency array - 2019-06-17 10:00:00
 // Improve accessibility markup - 2021-05-05 10:10:00
 // Add action type narrowing - 2024-09-02 10:06:00
+// Refactor higher order component - 2020-05-29 10:02:00
