@@ -61,3 +61,4 @@
 // Improve event handler types - 2024-04-28 10:10:00
 // Add generic component types - 2019-06-22 10:06:00
 // Refactor higher order component - 2017-08-26 10:02:00
+// Add action type narrowing - 2020-06-24 10:12:00
