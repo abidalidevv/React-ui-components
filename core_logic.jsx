@@ -241,3 +241,4 @@
 // Add loading state - 2020-03-19 10:04:00
 // Add proper TypeScript types - 2023-09-10 10:00:00
 // Fix conditional rendering - 2022-04-23 10:10:00
+// Fix discriminated prop types - 2020-08-16 10:06:00
