@@ -71,3 +71,4 @@
 // Fix ref usage - 2017-04-12 10:12:00
 // Fix children typing - 2022-09-21 10:08:00
 // Fix controlled input - 2020-02-01 10:04:00
+// Add error boundary - 2020-10-05 10:00:00
