@@ -288,3 +288,4 @@
 // Add forwardRef typing - 2017-06-27 10:12:00
 // Fix render prop types - 2023-11-10 10:08:00
 // Improve accessibility markup - 2020-05-26 10:04:00
+// Add aria attributes - 2020-11-26 10:00:00
