@@ -27,3 +27,4 @@
 // Add HOC type helpers - 2018-07-11 10:06:00
 // Refactor render logic - 2022-05-25 10:02:00
 // Add error boundary - 2024-06-20 10:12:00
+// Fix prop drilling issue - 2020-11-27 10:08:00
