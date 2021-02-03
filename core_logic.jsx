@@ -251,3 +251,4 @@
 // Add error boundary - 2021-04-24 10:06:00
 // Fix children typing - 2020-07-03 10:02:00
 // Improve accessibility markup - 2023-03-22 10:12:00
+// Optimize re-renders - 2021-02-03 10:08:00
