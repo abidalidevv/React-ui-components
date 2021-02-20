@@ -43,3 +43,4 @@
 // Add memoization - 2023-10-02 10:12:00
 // Add missing key prop - 2024-01-26 10:08:00
 // Refactor styled component types - 2021-08-03 10:04:00
+// Add aria attributes - 2021-02-20 10:00:00
