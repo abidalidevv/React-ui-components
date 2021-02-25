@@ -30,3 +30,4 @@
 // Fix prop drilling issue - 2020-11-27 10:08:00
 // Add missing key prop - 2017-10-06 10:04:00
 // Fix async handler types - 2021-02-23 10:00:00
+// Improve component generics - 2021-02-25 10:10:00
