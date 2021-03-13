@@ -73,3 +73,4 @@
 // Fix controlled input - 2020-02-01 10:04:00
 // Add error boundary - 2020-10-05 10:00:00
 // Improve accessibility markup - 2018-06-17 10:10:00
+// Add default props - 2021-03-13 10:06:00
