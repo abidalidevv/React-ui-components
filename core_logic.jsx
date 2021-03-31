@@ -219,3 +219,4 @@
 // Add default props - 2018-08-22 10:08:00
 // Improve accessibility markup - 2023-10-23 10:04:00
 // Add loading state - 2018-04-16 10:00:00
+// Add forwardRef typing - 2021-03-31 10:10:00
