@@ -142,3 +142,4 @@
 // Fix conditional rendering - 2018-04-20 10:08:00
 // Refactor styled component types - 2024-04-16 10:04:00
 // Fix hook dependency array - 2019-06-17 10:00:00
+// Improve accessibility markup - 2021-05-05 10:10:00
