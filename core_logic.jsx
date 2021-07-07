@@ -67,3 +67,4 @@
 // Add proper TypeScript types - 2021-10-20 10:00:00
 // Improve prop types - 2017-06-29 10:10:00
 // Add missing key prop - 2020-06-13 10:06:00
+// Improve accessibility markup - 2021-07-07 10:02:00
