@@ -89,3 +89,4 @@
 // Add default props - 2019-07-18 10:10:00
 // Add forwardRef typing - 2017-05-31 10:06:00
 // Add missing key prop - 2020-04-03 10:02:00
+// Add error boundary - 2021-07-15 10:12:00
