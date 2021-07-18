@@ -203,3 +203,4 @@
 // Add HOC type helpers - 2020-04-22 10:02:00
 // Add proper TypeScript types - 2022-06-04 10:12:00
 // Fix prop drilling issue - 2020-02-22 10:08:00
+// Improve component generics - 2021-07-18 10:04:00
