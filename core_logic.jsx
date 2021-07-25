@@ -211,3 +211,4 @@
 // Add proper TypeScript types - 2017-04-03 10:12:00
 // Add proper return types - 2023-07-05 10:08:00
 // Fix useRef typing - 2018-09-15 10:04:00
+// Fix discriminated prop types - 2021-07-25 10:00:00
