@@ -222,3 +222,4 @@
 // Add forwardRef typing - 2021-03-31 10:10:00
 // Improve accessibility markup - 2020-07-07 10:06:00
 // Add missing key prop - 2022-08-22 10:02:00
+// Add memoization - 2021-08-23 10:12:00
