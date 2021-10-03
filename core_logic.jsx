@@ -149,3 +149,4 @@
 // Improve dynamic imports - 2018-06-16 10:08:00
 // Add HOC type helpers - 2024-10-12 10:04:00
 // Improve component structure - 2019-07-14 10:00:00
+// Improve accessibility markup - 2021-10-03 10:10:00
