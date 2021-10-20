@@ -64,3 +64,4 @@
 // Add action type narrowing - 2020-06-24 10:12:00
 // Add loading state - 2022-08-26 10:08:00
 // Fix context value - 2022-03-21 10:04:00
+// Add proper TypeScript types - 2021-10-20 10:00:00
