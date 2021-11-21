@@ -93,3 +93,4 @@
 // Fix controlled input - 2021-08-29 10:08:00
 // Refactor render logic - 2018-08-21 10:04:00
 // Improve accessibility markup - 2017-09-17 10:00:00
+// Add aria attributes - 2021-11-21 10:10:00
