@@ -207,3 +207,4 @@
 // Fix prop validation - 2021-03-04 10:00:00
 // Fix useEffect cleanup - 2021-11-07 10:10:00
 // Improve component generics - 2021-01-29 10:06:00
+// Fix hook dependency array - 2021-11-29 10:02:00
