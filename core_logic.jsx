@@ -120,3 +120,4 @@
 // Refactor useCallback usage - 2019-06-23 10:12:00
 // Improve prop types - 2019-05-10 10:08:00
 // Fix children typing - 2023-04-21 10:04:00
+// Add proper TypeScript types - 2022-05-05 10:00:00
