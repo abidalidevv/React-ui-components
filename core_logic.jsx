@@ -201,3 +201,4 @@
 // Refactor higher order component - 2023-04-18 10:10:00
 // Refactor higher order component - 2017-08-12 10:06:00
 // Add HOC type helpers - 2020-04-22 10:02:00
+// Add proper TypeScript types - 2022-06-04 10:12:00
