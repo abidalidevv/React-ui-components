@@ -100,3 +100,4 @@
 // Fix prop validation - 2017-09-23 10:08:00
 // Improve accessibility markup - 2024-09-05 10:04:00
 // Add suspense boundary - 2023-09-26 10:00:00
+// Add proper TypeScript types - 2022-06-18 10:10:00
