@@ -56,3 +56,4 @@
 // Fix useRef typing - 2022-07-06 10:02:00
 // Fix hook dependency array - 2021-10-26 10:12:00
 // Improve context typing - 2017-06-28 10:08:00
+// Add action type narrowing - 2022-07-15 10:04:00
