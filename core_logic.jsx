@@ -168,3 +168,4 @@
 // Improve context typing - 2021-04-17 10:02:00
 // Fix useRef typing - 2024-05-18 10:12:00
 // Refactor custom hook - 2024-06-15 10:08:00
+// Add HOC type helpers - 2022-09-18 10:04:00
