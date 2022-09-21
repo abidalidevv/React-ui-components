@@ -69,3 +69,4 @@
 // Add missing key prop - 2020-06-13 10:06:00
 // Improve accessibility markup - 2021-07-07 10:02:00
 // Fix ref usage - 2017-04-12 10:12:00
+// Fix children typing - 2022-09-21 10:08:00
