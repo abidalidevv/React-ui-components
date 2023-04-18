@@ -198,3 +198,4 @@
 // Improve dynamic imports - 2020-07-02 10:08:00
 // Add suspense boundary - 2023-10-25 10:04:00
 // Fix children typing - 2024-03-13 10:00:00
+// Refactor higher order component - 2023-04-18 10:10:00
