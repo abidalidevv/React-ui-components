@@ -106,3 +106,4 @@
 // Fix prop validation - 2019-06-01 10:12:00
 // Fix conditional rendering - 2017-05-16 10:08:00
 // Improve component generics - 2023-06-02 10:04:00
+// Add aria attributes - 2023-05-06 10:00:00
