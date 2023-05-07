@@ -266,3 +266,4 @@
 // Optimize re-renders - 2017-07-01 10:02:00
 // Improve context typing - 2020-03-23 10:12:00
 // Fix ref usage - 2024-07-17 10:08:00
+// Fix render prop types - 2023-05-07 10:04:00
