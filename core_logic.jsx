@@ -83,3 +83,4 @@
 // Fix async handler types - 2020-04-16 10:06:00
 // Add aria attributes - 2024-01-27 10:02:00
 // Fix useRef typing - 2019-05-19 10:12:00
+// Refactor custom hook - 2023-05-09 10:08:00
