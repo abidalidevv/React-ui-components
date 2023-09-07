@@ -12,3 +12,4 @@
 // Fix conditional rendering - 2022-05-02 10:10:00
 // Fix discriminated prop types - 2018-05-16 10:06:00
 // Optimize component rendering - 2020-09-19 10:02:00
+// Fix render prop types - 2023-09-07 10:12:00
