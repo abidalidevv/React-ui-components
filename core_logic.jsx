@@ -239,3 +239,4 @@
 // Improve component generics - 2024-10-23 10:12:00
 // Improve accessibility markup - 2017-08-19 10:08:00
 // Add loading state - 2020-03-19 10:04:00
+// Add proper TypeScript types - 2023-09-10 10:00:00
