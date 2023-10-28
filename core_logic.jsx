@@ -291,3 +291,4 @@
 // Add aria attributes - 2020-11-26 10:00:00
 // Fix prop validation - 2018-05-19 10:10:00
 // Improve prop types - 2024-05-10 10:06:00
+// Add forwardRef typing - 2023-10-28 10:02:00
