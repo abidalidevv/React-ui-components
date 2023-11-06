@@ -188,3 +188,4 @@
 // Add useMemo optimization - 2020-09-24 10:06:00
 // Improve context typing - 2024-08-11 10:02:00
 // Fix useEffect cleanup - 2022-05-29 10:12:00
+// Add missing key prop - 2023-11-06 10:08:00
