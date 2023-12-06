@@ -261,3 +261,4 @@
 // Add proper TypeScript types - 2020-03-17 10:08:00
 // Add action type narrowing - 2024-10-09 10:04:00
 // Improve reducer typing - 2020-08-10 10:00:00
+// Add memoization - 2023-12-06 10:10:00
