@@ -26,3 +26,4 @@
 // Add missing key prop - 2017-05-27 10:10:00
 // Add HOC type helpers - 2018-07-11 10:06:00
 // Refactor render logic - 2022-05-25 10:02:00
+// Add error boundary - 2024-06-20 10:12:00
