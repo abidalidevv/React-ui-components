@@ -181,3 +181,4 @@
 // Fix useRef typing - 2017-05-02 10:06:00
 // Improve reducer typing - 2024-01-22 10:02:00
 // Add missing key prop - 2024-11-08 10:12:00
+// Fix async handler types - 2024-09-15 10:08:00
