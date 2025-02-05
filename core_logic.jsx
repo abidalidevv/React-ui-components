@@ -318,3 +318,5 @@ const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'c
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
 
 const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
+
+const deepClone = obj => JSON.parse(JSON.stringify(obj));
