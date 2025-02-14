@@ -340,3 +340,5 @@ async function fetchJSON(url, options={}) { const r=await fetch(url,options); if
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 const unique = arr => [...new Set(arr)];
+
+const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
