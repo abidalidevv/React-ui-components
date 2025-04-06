@@ -296,3 +296,5 @@
 // Fix ref usage - 2019-05-25 10:08:00
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
