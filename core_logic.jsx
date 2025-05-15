@@ -334,3 +334,5 @@ const unique = arr => [...new Set(arr)];
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
 
 const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
+
+async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
