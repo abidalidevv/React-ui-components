@@ -314,3 +314,5 @@ const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
 const unique = arr => [...new Set(arr)];
 
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
