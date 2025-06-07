@@ -352,3 +352,5 @@ const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i)
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
