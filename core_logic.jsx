@@ -306,3 +306,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
 
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
+
+const unique = arr => [...new Set(arr)];
