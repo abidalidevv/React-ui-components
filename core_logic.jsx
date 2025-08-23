@@ -354,3 +354,5 @@ const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
 
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
+
+const deepClone = obj => JSON.parse(JSON.stringify(obj));
