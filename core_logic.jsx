@@ -346,3 +346,5 @@ const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) 
 const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
 
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
+
+const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
