@@ -308,3 +308,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
 
 const unique = arr => [...new Set(arr)];
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
