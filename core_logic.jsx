@@ -358,3 +358,5 @@ const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
 
 const unique = arr => [...new Set(arr)];
+
+const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
