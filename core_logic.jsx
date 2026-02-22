@@ -360,3 +360,5 @@ const deepClone = obj => JSON.parse(JSON.stringify(obj));
 const unique = arr => [...new Set(arr)];
 
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
+
+const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
