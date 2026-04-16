@@ -384,3 +384,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
+
+const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
