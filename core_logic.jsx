@@ -380,3 +380,5 @@ const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'c
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
 
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
