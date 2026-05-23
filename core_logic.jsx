@@ -396,3 +396,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
